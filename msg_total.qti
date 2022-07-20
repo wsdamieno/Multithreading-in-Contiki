@@ -1,0 +1,392 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	5
+<table>
+Table1	30	4	05/09/15 12:03
+geometry	4	43	682	418	
+header	Messages envoyés[X]	Msg-Normal[Y]	Msg-Threads[Y]	Msg-Prototype[Y]
+ColWidth	105	110	95	107	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0
+HiddenColumn	0	0	0	0
+Comments					
+WindowLabel		2
+<data>
+0	30	30	30	30
+1	60	42	56	50
+2	90	57	70	66
+3	120	90	94	94
+4	150	90	120	110
+5	180	134	151	157
+6	210	146	165	172
+7	240	177	179	192
+8	270	179	202	198
+9	300	172	205	220
+10	330	201	213	208
+11	360	198	218	203
+12	390	189	177	186
+13	420	169	237	187
+14	450	188	218	218
+</data>
+</table>
+<multiLayer>
+Graphe4	1	1	14/09/15 23:06
+geometry	0	604	1044	638	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	651	388
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	1	1	1031	581
+<PageGeometry>0.00196078	0.00243902	2.02157	1.41707</PageGeometry>
+PlotTitle	EVALUATION DES MESSAGES REÇUS	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	94
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Messages envoyés	Messages reçus		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	17	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Messages envoyés	Table1_Msg-Prototype	0	1	#00ff00	2	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Messages envoyés	Table1_Msg-Threads	0	1	#0000ff	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Messages envoyés	Table1_Msg-Normal	0	1	#ff0000	0	2	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	29	1
+scale	0	0	250	0	6	5	0	0
+scale	1	0	250	0	6	5	0	0
+scale	2	0	500	0	6	5	0	0
+scale	3	0	500	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>24.844720496894</x>
+<y>236.22047244094</y>
+<right>60.5889014722537</right>
+<bottom>230.176211453744</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#c0c0c0</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>1</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graphe5	1	1	20/09/15 19:20
+geometry	196	604	1043	642	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	1024	578
+<PageGeometry>0.00980392	0.0121951	2.00784	1.40976</PageGeometry>
+PlotTitle	EVALUATION DES MESSAGES REÇUS	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Messages envoyés	Messages reçus		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Messages envoyés	Table1_Msg-Threads	0	1	#0000ff	0	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Messages envoyés	Table1_Msg-Normal	0	1	#ff0000	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+scale	0	0	250	0	6	5	0	0
+scale	1	0	250	0	6	5	0	0
+scale	2	0	500	0	6	5	0	0
+scale	3	0	500	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>12.531328320802</x>
+<y>241.63879598662</y>
+<right>61.0730593607306</right>
+<bottom>229.955456570156</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#a0a0a4</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graphe3	1	1	20/09/15 19:32
+geometry	392	604	1039	627	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	1019	564
+<PageGeometry>0.00484966	0.00863558	0.988361	0.974093</PageGeometry>
+PlotTitle	EVALUATION DES MESSAGES	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Messages envoyés	Messages reçus		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Messages envoyés	Table1_Msg-Prototype	0	1	#00ff00	0	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Messages envoyés	Table1_Msg-Threads	0	1	#0000ff	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+scale	0	0	250	0	6	5	0	0
+scale	1	0	250	0	6	5	0	0
+scale	2	0	500	0	6	5	0	0
+scale	3	0	500	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>12.531328320802</x>
+<y>241.63879598662</y>
+<right>61.4236509758898</right>
+<bottom>229.310344827586</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#a0a0a4</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graphe6	1	1	20/09/15 19:36
+geometry	588	604	1033	635	minimized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	6	5	1011	570
+<PageGeometry>0.00585366	0.00851789	0.986341	0.971039</PageGeometry>
+PlotTitle	EVALUATION DES MESSAGES REÇUS	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Messages envoyés 	Messages reçus		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Messages envoyés	Table1_Msg-Prototype	0	1	#00ff00	0	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Messages envoyés	Table1_Msg-Normal	0	1	#ff0000	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+scale	0	0	250	0	6	5	0	0
+scale	1	0	250	0	6	5	0	0
+scale	2	0	500	0	6	5	0	0
+scale	3	0	500	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>12.531328320802</x>
+<y>241.63879598662</y>
+<right>61.9930475086906</right>
+<bottom>229.591836734694</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#a0a0a4</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>

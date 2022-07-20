@@ -1,0 +1,392 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	5
+<table>
+Table1	30	4	20/09/15 19:53
+geometry	0	0	504	486	
+header	Nombre de Capteurs[X]	Normal[Y]	Thread[Y]	Prototype[Y]
+ColWidth	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0
+HiddenColumn	0	0	0	0
+Comments					
+WindowLabel		2
+<data>
+0	1	3.93	3.26	2.2
+1	2	5.19	4.03	5.75
+2	3	6.33	5.33	5.41
+3	4	8.85	7.56	7.21
+4	5	8.47	7.32	7.99
+5	6	9.51	7.01	7.84
+6	7	10.42	8.99	7.98
+7	8	11.35	9.5	9.63
+8	9	11.12	11.4	11.78
+9	10	11.57	11.49	11.85
+10	11	12.82	11.47	11.19
+11	12	11.59	11.23	10.7
+12	13	12.25	10.35	11.74
+13	14	11.61	12.15	9.75
+14	15	11.63	11.4	11.75
+</data>
+</table>
+<multiLayer>
+Graphe1	1	1	20/09/15 20:08
+geometry	334	3	965	622	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	2	3	947	559
+<PageGeometry>0.00208986	0.00522648	0.989551	0.973868</PageGeometry>
+PlotTitle	EVALUATION ENERGIE	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Nombre de capteurs	Radio _on + Radio TX + Radio RX		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Nombre de Capteurs	Table1_Prototype	0	1	#00ff00	0	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Nombre de Capteurs	Table1_Thread	0	1	#0000ff	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Nombre de Capteurs	Table1_Normal	0	1	#ff0000	0	2	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	29	1
+scale	0	2	14	0	7	5	0	0
+scale	1	2	14	0	7	5	0	0
+scale	2	0	16	0	9	5	0	0
+scale	3	0	16	0	9	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.64864864864865</x>
+<y>13.140811455847</y>
+<right>3.73464373464373</right>
+<bottom>10.8496420047733</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#80ffff</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graphe3	1	1	20/09/15 21:53
+geometry	392	604	968	622	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	942	555
+<PageGeometry>0.00520833	0.0087108	0.98125	0.966899</PageGeometry>
+PlotTitle	EVALUATION ENERGIE	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Nombre de capteurs	Radio _on + Radio TX + Radio RX		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Nombre de Capteurs	Table1_Thread	0	1	#0000ff	0	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Nombre de Capteurs	Table1_Normal	0	1	#ff0000	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+scale	0	2	14	0	7	5	0	0
+scale	1	2	14	0	7	5	0	0
+scale	2	0	16	0	9	5	0	0
+scale	3	0	16	0	9	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.65265760197775</x>
+<y>13.04578313253</y>
+<right>3.26328800988875</right>
+<bottom>11.3975903614458</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#80ffff</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graphe4	1	1	20/09/15 21:53
+geometry	196	604	964	615	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	938	551
+<PageGeometry>0.00523013	0.00881834	0.981172	0.971781</PageGeometry>
+PlotTitle	EVALUATION ENERGIE	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Nombres de capteurs	Radio _on + Radio TX + Radio RX		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Nombre de Capteurs	Table1_Prototype	0	1	#00ff00	0	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Nombre de Capteurs	Table1_Thread	0	1	#0000ff	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+scale	0	2	14	0	7	5	0	0
+scale	1	2	14	0	7	5	0	0
+scale	2	0	16	0	9	5	0	0
+scale	3	0	16	0	9	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.57639751552795</x>
+<y>12.978102189781</y>
+<right>3.69689440993789</right>
+<bottom>11.3138686131387</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#80ffff</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graphe5	1	1	20/09/15 21:54
+geometry	0	604	967	619	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	6	0	943	552
+<PageGeometry>0.00625652	0	0.983316	0.966725</PageGeometry>
+PlotTitle	EVALUATION ENERGIE	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	3	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Nomnre de capteurs	Radio _on + Radio TX + Radio RX		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Nombre de Capteurs	Table1_Prototype	0	1	#00ff00	0	2	7	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Nombre de Capteurs	Table1_Normal	0	1	#ff0000	0	2	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+scale	0	2	14	0	7	5	0	0
+scale	1	2	14	0	7	5	0	0
+scale	2	0	16	0	9	5	0	0
+scale	3	0	16	0	9	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.43456790123457</x>
+<y>13.126213592233</y>
+<right>3.5358024691358</right>
+<bottom>11.4660194174757</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#80ffff</Background>
+<Alpha>51</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>

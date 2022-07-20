@@ -1,0 +1,493 @@
+497	ID:9	Rime started with address 9.0
+504	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki 2.6 started. Node id is set to 9.
+514	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+516	ID:9	Starting 'Example unicast'
+609	ID:11	Rime started with address 11.0
+617	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki 2.6 started. Node id is set to 11.
+626	ID:11	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+628	ID:11	Starting 'Example unicast'
+644	ID:1	Rime started with address 1.0
+652	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki 2.6 started. Node id is set to 1.
+661	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+663	ID:1	Starting 'Simulation'
+976	ID:12	Rime started with address 12.0
+984	ID:12	MAC 0c:00:00:00:00:00:00:00 Contiki 2.6 started. Node id is set to 12.
+993	ID:12	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+995	ID:12	Starting 'Example unicast'
+1160	ID:10	Rime started with address 10.0
+1168	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki 2.6 started. Node id is set to 10.
+1177	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+1179	ID:10	Starting 'Example unicast'
+1664	ID:1	energy rx: 172
+2629	ID:11	Sending Message to 1.0 
+2659	ID:1	Message : Hello received from 11.0 
+2664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+2666	ID:1	Number of Threads : 0 
+2762	ID:1	energy rx: 2062
+2763	ID:9	1 Thread : Final message 'Hello' received from 1.0
+2996	ID:12	Sending Message to 1.0 
+3033	ID:1	Message : Hello received from 12.0 
+3038	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+3040	ID:1	Number of Threads : 1 
+3138	ID:9	2 Thread : Final message 'Hello' received from 1.0
+3180	ID:10	Sending Message to 1.0 
+3284	ID:1	Message : Hello received from 10.0 
+3289	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+3291	ID:1	Number of Threads : 2 
+3387	ID:9	3 Thread : Final message 'Hello' received from 1.0
+3758	ID:1	energy rx: 2975
+4629	ID:11	Sending Message to 1.0 
+4660	ID:1	Message : Hello received from 11.0 
+4665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+4667	ID:1	Number of Threads : 3 
+4763	ID:1	energy rx: 3596
+4763	ID:9	4 Thread : Final message 'Hello' received from 1.0
+4996	ID:12	Sending Message to 1.0 
+5034	ID:1	Message : Hello received from 12.0 
+5039	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+5041	ID:1	Number of Threads : 4 
+5138	ID:9	5 Thread : Final message 'Hello' received from 1.0
+5180	ID:10	Sending Message to 1.0 
+5285	ID:1	Message : Hello received from 10.0 
+5290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+5292	ID:1	Number of Threads : 5 
+5387	ID:9	6 Thread : Final message 'Hello' received from 1.0
+5758	ID:1	energy rx: 4558
+6629	ID:11	Sending Message to 1.0 
+6658	ID:1	Message : Hello received from 11.0 
+6663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+6665	ID:1	Number of Threads : 6 
+6763	ID:1	energy rx: 5127
+6763	ID:9	7 Thread : Final message 'Hello' received from 1.0
+6996	ID:12	Sending Message to 1.0 
+7035	ID:1	Message : Hello received from 12.0 
+7040	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+7042	ID:1	Number of Threads : 7 
+7138	ID:9	8 Thread : Final message 'Hello' received from 1.0
+7180	ID:10	Sending Message to 1.0 
+7284	ID:1	Message : Hello received from 10.0 
+7290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+7291	ID:1	Number of Threads : 8 
+7387	ID:9	9 Thread : Final message 'Hello' received from 1.0
+7758	ID:1	energy rx: 6104
+8629	ID:11	Sending Message to 1.0 
+8659	ID:1	Message : Hello received from 11.0 
+8664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+8666	ID:1	Number of Threads : 9 
+8763	ID:1	energy rx: 6720
+8763	ID:9	10 Thread : Final message 'Hello' received from 1.0
+8996	ID:12	Sending Message to 1.0 
+9034	ID:1	Message : Hello received from 12.0 
+9040	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+9041	ID:1	Number of Threads : 10 
+9138	ID:9	11 Thread : Final message 'Hello' received from 1.0
+9180	ID:10	Sending Message to 1.0 
+9284	ID:1	Message : Hello received from 10.0 
+9289	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+9291	ID:1	Number of Threads : 11 
+9387	ID:9	12 Thread : Final message 'Hello' received from 1.0
+9758	ID:1	energy rx: 7687
+10629	ID:11	Sending Message to 1.0 
+10660	ID:1	Message : Hello received from 11.0 
+10665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+10667	ID:1	Number of Threads : 12 
+10763	ID:1	energy rx: 8309
+10763	ID:9	13 Thread : Final message 'Hello' received from 1.0
+10996	ID:12	Sending Message to 1.0 
+11033	ID:1	Message : Hello received from 12.0 
+11039	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+11041	ID:1	Number of Threads : 13 
+11138	ID:9	14 Thread : Final message 'Hello' received from 1.0
+11180	ID:10	Sending Message to 1.0 
+11285	ID:1	Message : Hello received from 10.0 
+11290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+11292	ID:1	Number of Threads : 14 
+11387	ID:9	15 Thread : Final message 'Hello' received from 1.0
+11758	ID:1	energy rx: 9262
+12629	ID:11	Sending Message to 1.0 
+12658	ID:1	Message : Hello received from 11.0 
+12663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+12665	ID:1	Number of Threads : 15 
+12763	ID:1	energy rx: 9831
+12763	ID:9	16 Thread : Final message 'Hello' received from 1.0
+12996	ID:12	Sending Message to 1.0 
+13180	ID:10	Sending Message to 1.0 
+13759	ID:1	energy rx: 10418
+14284	ID:1	Message : Hello received from 10.0 
+14290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+14292	ID:1	Number of Threads : 16 
+14388	ID:9	17 Thread : Final message 'Hello' received from 1.0
+14629	ID:11	Sending Message to 1.0 
+14659	ID:1	Message : Hello received from 11.0 
+14664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+14666	ID:1	Number of Threads : 17 
+14762	ID:1	energy rx: 11401
+14762	ID:9	18 Thread : Final message 'Hello' received from 1.0
+14996	ID:12	Sending Message to 1.0 
+15180	ID:10	Sending Message to 1.0 
+15284	ID:1	Message : Hello received from 10.0 
+15289	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+15291	ID:1	Number of Threads : 18 
+15388	ID:9	19 Thread : Final message 'Hello' received from 1.0
+15759	ID:1	energy rx: 12007
+16629	ID:11	Sending Message to 1.0 
+16660	ID:1	Message : Hello received from 11.0 
+16665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+16667	ID:1	Number of Threads : 19 
+16762	ID:1	energy rx: 12599
+16763	ID:9	20 Thread : Final message 'Hello' received from 1.0
+16996	ID:12	Sending Message to 1.0 
+17180	ID:10	Sending Message to 1.0 
+17660	ID:1	Message : Hello received from 10.0 
+17665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+17667	ID:1	Number of Threads : 20 
+17764	ID:1	energy rx: 13405
+17764	ID:9	21 Thread : Final message 'Hello' received from 1.0
+18629	ID:11	Sending Message to 1.0 
+18658	ID:1	Message : Hello received from 11.0 
+18663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+18665	ID:1	Number of Threads : 21 
+18770	ID:1	energy rx: 14042
+18996	ID:12	Sending Message to 1.0 
+19180	ID:10	Sending Message to 1.0 
+19388	ID:9	22 Thread : Final message 'Hello' received from 1.0
+19767	ID:1	energy rx: 15207
+20629	ID:11	Sending Message to 1.0 
+20659	ID:1	Message : Hello received from 11.0 
+20664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+20666	ID:1	Number of Threads : 22 
+20763	ID:9	23 Thread : Final message 'Hello' received from 1.0
+20767	ID:1	energy rx: 15888
+20996	ID:12	Sending Message to 1.0 
+21180	ID:10	Sending Message to 1.0 
+21284	ID:1	Message : Hello received from 10.0 
+21290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+21292	ID:1	Number of Threads : 23 
+21389	ID:9	24 Thread : Final message 'Hello' received from 1.0
+21767	ID:1	energy rx: 16513
+22629	ID:11	Sending Message to 1.0 
+22660	ID:1	Message : Hello received from 11.0 
+22665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+22667	ID:1	Number of Threads : 24 
+22770	ID:1	energy rx: 17205
+22996	ID:12	Sending Message to 1.0 
+23180	ID:10	Sending Message to 1.0 
+23410	ID:1	Message : Hello received from 12.0 
+23415	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+23417	ID:1	Number of Threads : 25 
+23534	ID:1	Message : Hello received from 10.0 
+23539	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+23541	ID:1	Number of Threads : 26 
+23767	ID:1	energy rx: 17958
+24629	ID:11	Sending Message to 1.0 
+24658	ID:1	Message : Hello received from 11.0 
+24663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+24665	ID:1	Number of Threads : 27 
+24767	ID:1	energy rx: 19395
+24996	ID:12	Sending Message to 1.0 
+25180	ID:10	Sending Message to 1.0 
+25769	ID:1	energy rx: 20885
+25910	ID:1	Message : Hello received from 10.0 
+25915	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+25917	ID:1	Number of Threads : 28 
+26034	ID:1	Message : Hello received from 12.0 
+26040	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+26041	ID:1	Number of Threads : 29 
+26629	ID:11	Sending Message to 1.0 
+26659	ID:1	Message : Hello received from 11.0 
+26664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+26666	ID:1	Number of Threads : 30 
+26769	ID:1	energy rx: 22558
+26996	ID:12	Sending Message to 1.0 
+27033	ID:1	Message : Hello received from 12.0 
+27039	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+27041	ID:1	Number of Threads : 31 
+27180	ID:10	Sending Message to 1.0 
+27284	ID:1	Message : Hello received from 10.0 
+27290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+27291	ID:1	Number of Threads : 32 
+27767	ID:1	energy rx: 23719
+28629	ID:11	Sending Message to 1.0 
+28767	ID:1	energy rx: 25109
+28887	ID:9	25 Thread : Final message 'Hello' received from 1.0
+28893	ID:9	26 Thread : Final message 'Hello' received from 1.0
+28899	ID:9	27 Thread : Final message 'Hello' received from 1.0
+28904	ID:9	28 Thread : Final message 'Hello' received from 1.0
+28996	ID:12	Sending Message to 1.0 
+29160	ID:1	Message : Hello received from 11.0 
+29165	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+29167	ID:1	Number of Threads : 33 
+29180	ID:10	Sending Message to 1.0 
+29263	ID:9	29 Thread : Final message 'Hello' received from 1.0
+29534	ID:1	Message : Hello received from 10.0 
+29539	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+29541	ID:1	Number of Threads : 34 
+29638	ID:9	30 Thread : Final message 'Hello' received from 1.0
+29767	ID:1	energy rx: 27857
+30629	ID:11	Sending Message to 1.0 
+30658	ID:1	Message : Hello received from 11.0 
+30663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+30665	ID:1	Number of Threads : 35 
+30762	ID:9	31 Thread : Final message 'Hello' received from 1.0
+30767	ID:1	energy rx: 28393
+30996	ID:12	Sending Message to 1.0 
+31180	ID:10	Sending Message to 1.0 
+31285	ID:1	Message : Hello received from 10.0 
+31290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+31292	ID:1	Number of Threads : 36 
+31388	ID:9	32 Thread : Final message 'Hello' received from 1.0
+31767	ID:1	energy rx: 29008
+32629	ID:11	Sending Message to 1.0 
+32659	ID:1	Message : Hello received from 11.0 
+32664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+32666	ID:1	Number of Threads : 37 
+32763	ID:9	33 Thread : Final message 'Hello' received from 1.0
+32767	ID:1	energy rx: 29594
+32996	ID:12	Sending Message to 1.0 
+33180	ID:10	Sending Message to 1.0 
+33284	ID:1	Message : Hello received from 10.0 
+33290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+33292	ID:1	Number of Threads : 38 
+33387	ID:9	34 Thread : Final message 'Hello' received from 1.0
+33767	ID:1	energy rx: 30189
+34629	ID:11	Sending Message to 1.0 
+34660	ID:1	Message : Hello received from 11.0 
+34665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+34667	ID:1	Number of Threads : 39 
+34763	ID:9	35 Thread : Final message 'Hello' received from 1.0
+34767	ID:1	energy rx: 30811
+34996	ID:12	Sending Message to 1.0 
+35180	ID:10	Sending Message to 1.0 
+35659	ID:1	Message : Hello received from 10.0 
+35664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+35666	ID:1	Number of Threads : 40 
+35763	ID:9	36 Thread : Final message 'Hello' received from 1.0
+35767	ID:1	energy rx: 31432
+36629	ID:11	Sending Message to 1.0 
+36658	ID:1	Message : Hello received from 11.0 
+36663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+36665	ID:1	Number of Threads : 41 
+36762	ID:9	37 Thread : Final message 'Hello' received from 1.0
+36767	ID:1	energy rx: 31969
+36996	ID:12	Sending Message to 1.0 
+37180	ID:10	Sending Message to 1.0 
+37285	ID:1	Message : Hello received from 10.0 
+37290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+37292	ID:1	Number of Threads : 42 
+37388	ID:9	38 Thread : Final message 'Hello' received from 1.0
+37767	ID:1	energy rx: 32584
+38629	ID:11	Sending Message to 1.0 
+38659	ID:1	Message : Hello received from 11.0 
+38664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+38666	ID:1	Number of Threads : 43 
+38763	ID:9	39 Thread : Final message 'Hello' received from 1.0
+38767	ID:1	energy rx: 33170
+38996	ID:12	Sending Message to 1.0 
+39180	ID:10	Sending Message to 1.0 
+39284	ID:1	Message : Hello received from 10.0 
+39290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+39292	ID:1	Number of Threads : 44 
+39410	ID:1	Message : Hello received from 12.0 
+39415	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+39417	ID:1	Number of Threads : 45 
+39637	ID:9	40 Thread : Final message 'Hello' received from 1.0
+39643	ID:9	41 Thread : Final message 'Hello' received from 1.0
+39767	ID:1	energy rx: 33919
+40629	ID:11	Sending Message to 1.0 
+40660	ID:1	Message : Hello received from 11.0 
+40665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+40667	ID:1	Number of Threads : 46 
+40768	ID:1	energy rx: 34610
+40996	ID:12	Sending Message to 1.0 
+41180	ID:10	Sending Message to 1.0 
+41284	ID:1	Message : Hello received from 10.0 
+41289	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+41291	ID:1	Number of Threads : 47 
+41768	ID:1	energy rx: 35683
+42629	ID:11	Sending Message to 1.0 
+42658	ID:1	Message : Hello received from 11.0 
+42663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+42665	ID:1	Number of Threads : 48 
+42768	ID:1	energy rx: 37110
+42996	ID:12	Sending Message to 1.0 
+43180	ID:10	Sending Message to 1.0 
+43660	ID:1	Message : Hello received from 10.0 
+43665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+43667	ID:1	Number of Threads : 49 
+43767	ID:1	energy rx: 38271
+44629	ID:11	Sending Message to 1.0 
+44638	ID:9	42 Thread : Final message 'Hello' received from 1.0
+44659	ID:1	Message : Hello received from 11.0 
+44664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+44666	ID:1	Number of Threads : 50 
+44763	ID:9	43 Thread : Final message 'Hello' received from 1.0
+44767	ID:1	energy rx: 40375
+44996	ID:12	Sending Message to 1.0 
+45180	ID:10	Sending Message to 1.0 
+45658	ID:1	Message : Hello received from 10.0 
+45663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+45665	ID:1	Number of Threads : 51 
+45762	ID:9	44 Thread : Final message 'Hello' received from 1.0
+45767	ID:1	energy rx: 41089
+46629	ID:11	Sending Message to 1.0 
+46660	ID:1	Message : Hello received from 11.0 
+46665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+46667	ID:1	Number of Threads : 52 
+46763	ID:9	45 Thread : Final message 'Hello' received from 1.0
+46767	ID:1	energy rx: 41711
+46996	ID:12	Sending Message to 1.0 
+47180	ID:10	Sending Message to 1.0 
+47284	ID:1	Message : Hello received from 10.0 
+47289	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+47291	ID:1	Number of Threads : 53 
+47388	ID:9	46 Thread : Final message 'Hello' received from 1.0
+47767	ID:1	energy rx: 42286
+48629	ID:11	Sending Message to 1.0 
+48658	ID:1	Message : Hello received from 11.0 
+48663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+48665	ID:1	Number of Threads : 54 
+48762	ID:9	47 Thread : Final message 'Hello' received from 1.0
+48767	ID:1	energy rx: 42823
+48996	ID:12	Sending Message to 1.0 
+49180	ID:10	Sending Message to 1.0 
+49767	ID:1	energy rx: 43171
+50160	ID:1	Message : Hello received from 10.0 
+50165	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+50167	ID:1	Number of Threads : 55 
+50263	ID:9	48 Thread : Final message 'Hello' received from 1.0
+50629	ID:11	Sending Message to 1.0 
+50659	ID:1	Message : Hello received from 11.0 
+50664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+50666	ID:1	Number of Threads : 56 
+50763	ID:9	49 Thread : Final message 'Hello' received from 1.0
+50767	ID:1	energy rx: 44174
+50996	ID:12	Sending Message to 1.0 
+51180	ID:10	Sending Message to 1.0 
+51767	ID:1	energy rx: 44842
+51784	ID:1	Message : Hello received from 10.0 
+51790	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+51791	ID:1	Number of Threads : 57 
+51889	ID:9	50 Thread : Final message 'Hello' received from 1.0
+52629	ID:11	Sending Message to 1.0 
+52660	ID:1	Message : Hello received from 11.0 
+52665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+52667	ID:1	Number of Threads : 58 
+52770	ID:1	energy rx: 45960
+52996	ID:12	Sending Message to 1.0 
+53180	ID:10	Sending Message to 1.0 
+53660	ID:1	Message : Hello received from 12.0 
+53665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+53667	ID:1	Number of Threads : 59 
+53769	ID:1	energy rx: 47526
+54034	ID:1	Message : Hello received from 10.0 
+54039	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+54041	ID:1	Number of Threads : 60 
+54629	ID:11	Sending Message to 1.0 
+54768	ID:1	energy rx: 48604
+54996	ID:12	Sending Message to 1.0 
+55180	ID:10	Sending Message to 1.0 
+55408	ID:1	Message : Hello received from 11.0 
+55413	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+55415	ID:1	Number of Threads : 61 
+55660	ID:1	Message : Hello received from 10.0 
+55665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+55667	ID:1	Number of Threads : 62 
+55770	ID:1	energy rx: 50620
+56629	ID:11	Sending Message to 1.0 
+56659	ID:1	Message : Hello received from 11.0 
+56664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+56666	ID:1	Number of Threads : 63 
+56769	ID:1	energy rx: 52107
+56996	ID:12	Sending Message to 1.0 
+57180	ID:10	Sending Message to 1.0 
+57767	ID:1	energy rx: 53683
+57784	ID:1	Message : Hello received from 10.0 
+57790	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+57791	ID:1	Number of Threads : 64 
+58263	ID:9	51 Thread : Final message 'Hello' received from 1.0
+58268	ID:9	52 Thread : Final message 'Hello' received from 1.0
+58629	ID:11	Sending Message to 1.0 
+58660	ID:1	Message : Hello received from 11.0 
+58665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+58667	ID:1	Number of Threads : 65 
+58764	ID:9	53 Thread : Final message 'Hello' received from 1.0
+58767	ID:1	energy rx: 55597
+58996	ID:12	Sending Message to 1.0 
+59180	ID:10	Sending Message to 1.0 
+59284	ID:1	Message : Hello received from 10.0 
+59289	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+59291	ID:1	Number of Threads : 66 
+59386	ID:9	54 Thread : Final message 'Hello' received from 1.0
+59767	ID:1	energy rx: 56137
+60629	ID:11	Sending Message to 1.0 
+60658	ID:1	Message : Hello received from 11.0 
+60663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+60665	ID:1	Number of Threads : 67 
+60762	ID:9	55 Thread : Final message 'Hello' received from 1.0
+60767	ID:1	energy rx: 56704
+60996	ID:12	Sending Message to 1.0 
+61180	ID:10	Sending Message to 1.0 
+61285	ID:1	Message : Hello received from 10.0 
+61290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+61292	ID:1	Number of Threads : 68 
+61389	ID:9	56 Thread : Final message 'Hello' received from 1.0
+61767	ID:1	energy rx: 57322
+62629	ID:11	Sending Message to 1.0 
+62659	ID:1	Message : Hello received from 11.0 
+62664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+62666	ID:1	Number of Threads : 69 
+62761	ID:9	57 Thread : Final message 'Hello' received from 1.0
+62767	ID:1	energy rx: 57873
+62996	ID:12	Sending Message to 1.0 
+63180	ID:10	Sending Message to 1.0 
+63659	ID:1	Message : Hello received from 10.0 
+63665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+63666	ID:1	Number of Threads : 70 
+63763	ID:9	58 Thread : Final message 'Hello' received from 1.0
+63767	ID:1	energy rx: 58591
+64629	ID:11	Sending Message to 1.0 
+64660	ID:1	Message : Hello received from 11.0 
+64665	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+64667	ID:1	Number of Threads : 71 
+64764	ID:9	59 Thread : Final message 'Hello' received from 1.0
+64767	ID:1	energy rx: 59212
+64996	ID:12	Sending Message to 1.0 
+65180	ID:10	Sending Message to 1.0 
+65284	ID:1	Message : Hello received from 10.0 
+65289	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+65291	ID:1	Number of Threads : 72 
+65409	ID:1	Message : Hello received from 12.0 
+65414	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+65416	ID:1	Number of Threads : 73 
+65767	ID:1	energy rx: 60000
+66262	ID:9	60 Thread : Final message 'Hello' received from 1.0
+66267	ID:9	61 Thread : Final message 'Hello' received from 1.0
+66629	ID:11	Sending Message to 1.0 
+66658	ID:1	Message : Hello received from 11.0 
+66663	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+66665	ID:1	Number of Threads : 74 
+66763	ID:9	62 Thread : Final message 'Hello' received from 1.0
+66767	ID:1	energy rx: 61305
+66996	ID:12	Sending Message to 1.0 
+67035	ID:1	Message : Hello received from 12.0 
+67040	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+67042	ID:1	Number of Threads : 75 
+67139	ID:9	63 Thread : Final message 'Hello' received from 1.0
+67180	ID:10	Sending Message to 1.0 
+67285	ID:1	Message : Hello received from 10.0 
+67290	ID:1	1.0: Forwarding to 9.0  From Original Sender : 10.0 
+67292	ID:1	Number of Threads : 76 
+67636	ID:9	64 Thread : Final message 'Hello' received from 1.0
+67767	ID:1	energy rx: 62680
+68629	ID:11	Sending Message to 1.0 
+68659	ID:1	Message : Hello received from 11.0 
+68664	ID:1	1.0: Forwarding to 9.0  From Original Sender : 11.0 
+68666	ID:1	Number of Threads : 77 
+68763	ID:9	65 Thread : Final message 'Hello' received from 1.0
+68767	ID:1	energy rx: 63294
+68996	ID:12	Sending Message to 1.0 
+69033	ID:1	Message : Hello received from 12.0 
+69038	ID:1	1.0: Forwarding to 9.0  From Original Sender : 12.0 
+69040	ID:1	Number of Threads : 78 
+69139	ID:9	66 Thread : Final message 'Hello' received from 1.0
+69180	ID:10	Sending Message to 1.0 
